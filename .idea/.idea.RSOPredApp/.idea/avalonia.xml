@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AddUpdate.axaml" value="RSOPredApp.csproj" />
+        <entry key="App.axaml" value="RSOPredApp.csproj" />
+        <entry key="LoginWindow.axaml" value="RSOPredApp.csproj" />
+        <entry key="MainMenu.axaml" value="RSOPredApp.csproj" />
+        <entry key="MainWindow.axaml" value="RSOPredApp.csproj" />
+        <entry key="MembersForm.axaml" value="RSOPredApp.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
