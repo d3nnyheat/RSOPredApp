@@ -25,4 +25,11 @@ public partial class MainMenu : Window
         Hide();
         lw.Show();
     }
+
+    private void CatalogButton_OnClick(object? sender, RoutedEventArgs e)
+    {
+        CatalogForm catalogForm = new CatalogForm();
+        Hide();
+        catalogForm.Show();
+    }
 }

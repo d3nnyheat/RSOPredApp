@@ -5,6 +5,7 @@
       <map>
         <entry key="AddUpdate.axaml" value="RSOPredApp.csproj" />
         <entry key="App.axaml" value="RSOPredApp.csproj" />
+        <entry key="CatalogForm.axaml" value="RSOPredApp.csproj" />
         <entry key="LoginWindow.axaml" value="RSOPredApp.csproj" />
         <entry key="MainMenu.axaml" value="RSOPredApp.csproj" />
         <entry key="MainWindow.axaml" value="RSOPredApp.csproj" />
