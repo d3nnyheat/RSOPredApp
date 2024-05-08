@@ -6,7 +6,7 @@
         x:Class="RSOPredApp.AddUpdate"
 Title="Добавление/редактирование данных"
         Icon="/Assets/rso.ico"
-        Background="CornflowerBlue"
+        Background="#70C5FF"
         Width="500"
         WindowStartupLocation="CenterScreen">
         <Grid>

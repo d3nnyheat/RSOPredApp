@@ -6,10 +6,15 @@
         <entry key="AddUpdate.axaml" value="RSOPredApp.csproj" />
         <entry key="App.axaml" value="RSOPredApp.csproj" />
         <entry key="CatalogForm.axaml" value="RSOPredApp.csproj" />
+        <entry key="EventsForm.axaml" value="RSOPredApp.csproj" />
+        <entry key="LaureatesForm.axaml" value="RSOPredApp.csproj" />
         <entry key="LoginWindow.axaml" value="RSOPredApp.csproj" />
         <entry key="MainMenu.axaml" value="RSOPredApp.csproj" />
         <entry key="MainWindow.axaml" value="RSOPredApp.csproj" />
         <entry key="MembersForm.axaml" value="RSOPredApp.csproj" />
+        <entry key="OrdersForm.axaml" value="RSOPredApp.csproj" />
+        <entry key="SquadForm.axaml" value="RSOPredApp.csproj" />
+        <entry key="StaffForm.axaml" value="RSOPredApp.csproj" />
       </map>
     </option>
   </component>

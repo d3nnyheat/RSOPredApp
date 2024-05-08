@@ -5,7 +5,7 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="RSOPredApp.LoginWindow"
         Title="Авторизация"
-        Background="CornflowerBlue"
+        Background="#70C5FF"
         WindowStartupLocation="CenterScreen"
         MaxWidth="300" MinWidth="300"
         MaxHeight="180" MinHeight="180"

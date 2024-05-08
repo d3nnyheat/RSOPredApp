@@ -6,7 +6,7 @@
         x:Class="RSOPredApp.MembersForm"
         Title="Бойцы студенческих отрядов"
         MinWidth="880" MaxWidth="880" MaxHeight="435" MinHeight="435"
-        Background="CornflowerBlue"
+        Background="#70C5FF"
         Icon="/Assets/rso.ico"
         WindowStartupLocation="CenterScreen">
     <StackPanel>
